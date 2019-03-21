@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.gatsbyjs.org">
+  <a href="https://www.cratebind.com">
     <img alt="Gatsby" src="./content/assets/profile-pic.png" width="60" />
   </a>
 </p>
