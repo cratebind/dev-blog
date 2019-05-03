@@ -4,10 +4,6 @@ date: "2018-05-03"
 description: The Benefits Of Writing Down What You Learn
 ---
 
-
-
-## Why Should I Bother Blogging?
-
 When learning something new, there are three [commonly cited](https://www.bitnative.com/2013/12/14/programming-your-brain-the-art-of-learning-in-three-steps/) steps to become an "expert":
 
 1. Watch someone who is an "expert"
@@ -62,7 +58,7 @@ It can be easy to skip over the outlining step, but it almost always results in 
 
 Once you have your outline finished, you can start expanding on each section and writing the post itself.
 
-As you're writing, try not to get stuck on making each sentence sound perfect. It's much more important to get your ideas written down at the beginning. You can always edit (refactor) your writing later, but first you need to get the ideas out of your head.
+As you're writing, try not to get stuck on making each sentence sound perfect. It's much more important to get your ideas written down at the beginning. You can always edit your writing later, but first you need to get the ideas out of your head.
 
 In general, you want to avoid long sentences and overly complicated language. Using SAT words doesn't help anyone, and it's almost always a sign of someone trying to seem "impressive" rather than write something that's helpful for others. Always try to keep you writing simple and to the point.
 
@@ -71,6 +67,26 @@ And if you're writing about a programming concept, it's always best to include l
 
 ### 4. Editing
 
+Approach editing your writing like you're refactoring code. First you just want to get it to work, then you can go back and make it as clean as possible.
 
+Carefully re-read what you've written and make sure it's easy to understand and stays on topic. A good trick is to try reading it outloud to yourself, which can help you catch sentences that are clunky or run too long.
+
+If you can, try to ask someone else (ideally someone similar to your audience) to glance over it. Ask them if it makes sense and if there were any places where they got lost.
 
 ### 5. Publish
+
+If you're comfortable sharing your writing, then go ahead and publish it.
+
+But if you (like most people) are self-conscious about sharing your writing, you can always publish it to a personal repo and use it as a personal reference.
+
+### 6. Improving Your Writing
+
+Much like programming, there are only two real ways to improve your writing:
+- Write More
+- Read More
+
+This may seem overly simplified, but there really isn't that much more to it than that.
+
+Find developers who explain ideas well and read through their blog posts or documentation. Take note of the way they explain things, and try to understand what makes it so helpful.
+
+Over time, as you take note of these methods, you can start implementing them yourself and start writing articles that will be able to help teach others just as others have helped you.
