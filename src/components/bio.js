@@ -38,7 +38,7 @@ function Bio() {
               }}
             />
             <p>
-              Written by <a href="https://cratebind.com/about"><strong>Cratebind's</strong></a> Frontend Developers.
+              Written by <a href="https://cratebind.com/about"><strong>Cratebind's</strong></a> Development Team.
             </p>
           </div>
         )

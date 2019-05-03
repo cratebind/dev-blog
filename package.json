@@ -1,7 +1,7 @@
 {
-  "name": "cratebind-frontend-blog",
+  "name": "cratebind-dev-blog",
   "private": true,
-  "description": "A Dev Blog from the Cratebind Frontend Team",
+  "description": "A Dev Blog from the Cratebind Development Team",
   "version": "0.1.0",
   "author": "Matt Wood <matt@cratebind.com>",
   "dependencies": {
@@ -35,7 +35,7 @@
   "devDependencies": {
     "prettier": "^1.16.4"
   },
-  "homepage": "https://cratebind-frontend-blog.netlify.com/",
+  "homepage": "https://cratebind-dev-blog.netlify.com/",
   "keywords": [
     "cratebind"
   ],

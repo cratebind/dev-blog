@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Cratebind Frontend Blog`,
+    title: `Cratebind Development Blog`,
     author: `Cratebind`,
-    description: `A Dev Blog for Cratebind's Frontend Team`,
+    description: `A Development Blog for Cratebind`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       twitter: `cratebind`,
@@ -57,7 +57,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cratebind Frontend Blog`,
+        name: `Cratebind Development Blog`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,

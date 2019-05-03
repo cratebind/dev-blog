@@ -4,10 +4,10 @@
   </a>
 </p>
 <h1 align="center">
-  Cratebind Frontend Blog
+  Cratebind Dev Blog
 </h1>
 
-A blog for the frontend developers at Cratebind to share their successes, failures and advice.
+A blog for the developers at Cratebind to share their successes, failures and advice.
 
 ## 🚀 Quick start
 
@@ -17,7 +17,7 @@ A blog for the frontend developers at Cratebind to share their successes, failur
 
     ```sh
     # create a new Gatsby site using the blog starter
-    git clone git@github.com:cratebind/frontend-blog.git frontend-blog
+    git clone git@github.com:cratebind/cb-dev-blog.git cb-dev-blog
     ```
 
 1.  **Install Dependencies and Start**
@@ -25,7 +25,7 @@ A blog for the frontend developers at Cratebind to share their successes, failur
     Navigate into your new site’s directory and start it up.
 
     ```sh
-    cd frontend-blog
+    cd cb-dev-blog
     yarn install
     yarn dev
     ```
