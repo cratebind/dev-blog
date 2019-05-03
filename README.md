@@ -17,7 +17,7 @@ A blog for the developers at Cratebind to share their successes, failures and ad
 
     ```sh
     # create a new Gatsby site using the blog starter
-    git clone git@github.com:cratebind/cb-dev-blog.git cb-dev-blog
+    git clone git@github.com:cratebind/dev-blog.git cb-dev-blog
     ```
 
 1.  **Install Dependencies and Start**
