@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "Matt Wood <matt@cratebind.com>",
   "dependencies": {
-    "gatsby": "^2.4.1",
+    "gatsby": "^2.32.13",
     "gatsby-image": "^2.0.41",
     "gatsby-plugin-feed": "^2.2.0",
     "gatsby-plugin-google-analytics": "^2.0.19",
